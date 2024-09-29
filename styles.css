@@ -213,6 +213,7 @@ button {
   border: none;
   padding: 8px;
   border-radius: 8px;
+  font-size: 1rem;
 }
 /* Mobile-first design */
 @media (min-width: 768px) {
